@@ -51,6 +51,17 @@ Then ask: *"Make a launch poster series for my brand with Levni."* No image mode
 | --- | --- |
 | [**levni**](https://github.com/Levni-Dev/levni) | the engine, the Levni Folio, the CLI, the MCP server and [levni.dev](https://levni.dev) |
 
+### No FOMO lists
+
+We spotlight other people's open work. Open licence, free to start, maintained. That is the whole rule.
+
+| list | what |
+| --- | --- |
+| [**awesome-open-design**](https://github.com/Levni-Dev/awesome-open-design) | 100+ open design tools, icon sets, illustrations, fonts, colour and creative code |
+| [**awesome-design-mcp**](https://github.com/Levni-Dev/awesome-design-mcp) | 55 open-source MCP servers that let AI agents do design work |
+| [**awesome-lettering**](https://github.com/Levni-Dev/awesome-lettering) | 86 open type tools, fonts, lettering and kinetic type resources |
+
+
 <details>
 <summary><sub>psst</sub></summary>
 
