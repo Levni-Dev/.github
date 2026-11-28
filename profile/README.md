@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/@levni/levni?color=4B2FD6&label=npm&labelColor=1B1340)](https://www.npmjs.com/package/@levni/levni) [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-dev.levni%2Flevni-D6E521?labelColor=1B1340)](https://registry.modelcontextprotocol.io/v0/servers?search=dev.levni/levni) [![Code: MIT](https://img.shields.io/badge/code-MIT-4B2FD6?labelColor=1B1340)](https://github.com/Levni-Dev/levni/blob/main/LICENSE) [![Drawings: CC BY 4.0](https://img.shields.io/badge/drawings-CC%20BY%204.0-FF3A44?labelColor=1B1340)](https://creativecommons.org/licenses/by/4.0/)
 
-**[levni.dev](https://levni.dev)** · [Editor](https://levni.dev/editor/) · [Gallery](https://levni.dev/gallery/) · [Library](https://levni.dev/library/) · [Manifesto](https://levni.dev/manifesto/) · [Community](https://levni.dev/community/)
+**[levni.dev](https://levni.dev)** · [Editor](https://levni.dev/editor/) · [Free tools](https://levni.dev/tools/) · [Gallery](https://levni.dev/gallery/) · [Library](https://levni.dev/library/) · [Manifesto](https://levni.dev/manifesto/) · [Community](https://levni.dev/community/)
 
 </div>
 
@@ -21,6 +21,12 @@ Then ask: *"Make a launch poster series for my brand with Levni."* No image mode
 <a href="https://levni.dev/gallery/"><img src="https://raw.githubusercontent.com/Levni-Dev/.github/main/profile/assets/showcase.png" alt="Branding posters, a brand board, stickers, a dithered sunset, a soft 3D cover, an isometric city, wireframe terrain, an ASCII card and a riso cover, all drawn by Levni" width="100%"></a>
 
 <sub>Every picture on this page was drawn by Levni from a JSON file. Same seed, same picture.</sub>
+
+### New in 0.5: it moves
+
+<a href="https://levni.dev/banner/"><img src="https://raw.githubusercontent.com/Levni-Dev/levni/main/docs/img/banner-motion.gif" alt="A README banner drawing itself: the repo name is typed, a tulip pops into a yellow circle and floats, the description slides in" width="100%"></a>
+
+From 0.5.0 any scene loops as a GIF, an animated WebP or an MP4 with `levni animate scene.json loop.gif`. Give an element `"motion": "float"` and it floats; a headline types itself. One name becomes a whole [brand kit](https://levni.dev/docs/brand-kits/), a shot list becomes a [storyboard](https://levni.dev/docs/storyboards/), and four [free tools](https://levni.dev/tools/) make gradients, patterns, waves and Open Graph images in your browser. Make a moving banner for your own repo at [levni.dev/banner](https://levni.dev/banner/).
 
 ---
 
