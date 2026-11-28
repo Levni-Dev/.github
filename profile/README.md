@@ -56,6 +56,7 @@ From 0.5.0 any scene loops as a GIF, an animated WebP or an MP4 with `levni anim
 | repo | what |
 | --- | --- |
 | [**levni**](https://github.com/Levni-Dev/levni) | the engine, the Levni Folio, the CLI, the MCP server and [levni.dev](https://levni.dev) |
+| [**levni-skills**](https://github.com/Levni-Dev/levni-skills) | skills that teach an agent to art-direct what it draws: `levni-taste`, `levni-motion` and sixteen recipe cards |
 
 ### No FOMO lists
 
